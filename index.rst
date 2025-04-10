@@ -7,6 +7,7 @@ ReadTheDocs-Test documentation
 ==============================
 
 This is a first test
+This is a second line to test Git Azure Repo
 
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
