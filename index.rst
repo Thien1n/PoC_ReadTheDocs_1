@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-ReadTheDocs-Test documentation
+Welcome to my channel 3TShare - ReadTheDocs-Test documentation
 ==============================
 
-This is a first test
+This is a first test `n`
 This is a second line to test Git Azure Repo
 Test after chaning to github
 
