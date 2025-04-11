@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-3Tshare-MDM
+3Tshare-MDM-Intune
 ===========
 
 Welcome to the 3Tshare-MDM documentation! This documentation provides an overview of the Master Data Management (MDM) system, its features, and how to use it effectively.
